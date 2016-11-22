@@ -1,9 +1,0 @@
-.text-block {
-	/*font: стиль насыщенность размер/высота строки семейство, семейство;*/
-	font: normal normal 16px/18px 'Times New Roman';
-	font: normal bold 24px/28px Arial, sans-serif;
-
-	text-transform: uppercase;
-	text-decoration: overline;
-	text-indent: 30px;
-}
