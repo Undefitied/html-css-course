@@ -19,26 +19,28 @@
 
 3. Отступы ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/03_marginpadding)) ([видео](https://www.youtube.com/watch?v=Um1xYjzRseM))
 
-4. Стилизация текста текста (цвет, шрифт, стилизация) ([статья]()) ([код]()) ([видео]())
+4. Стилизация текста текста (цвет, шрифт, стилизация) ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/04_text)) ([видео]())
 
-5. Позиционирование. *Важно* ([статья]()) ([код]()) ([видео]())
+5. Позиционирование. *Важно* ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/05_position)) ([видео]())
 
-6. Обтекание. *Важно* ([статья]()) ([код]()) ([видео]())
+6. Обтекание. *Важно* ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/06_float)) ([видео]())
 
-7. Фон ([статья]()) ([код]()) ([видео]())
+7. Фон ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/07_background)) ([видео]())
 
-8. Форма(сделать сноску о стилизации чекбоксов и селектов) ([статья]()) ([код]()) ([видео]())
+8. Форма ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/08_form)) ([видео]())
 
-9. Таблица ([статья]()) ([код]()) ([видео]())
+9. Таблица ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/09_table)) ([видео]())
 
-10. Дисплей. *Важно* ([статья]()) ([код]()) ([видео]())
+10. Дисплей. *Важно* ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/10_display)) ([видео]())
 
-11. Псевдоэлементы и списки ([статья]()) ([код]()) ([видео]())
+11. Псевдоэлементы и списки ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/11_pseudo)) ([видео]())
 
-12. Стили состояний ([статья]()) ([код]()) ([видео]())
+12. Стили состояний ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/12_state)) ([видео]())
 
-13. Наследование ([статья]()) ([код]()) ([видео]())
+13. Наследование ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/13_inheritance)) ([видео]())
+<!--
+14. CSS3 декорации - border-radius box-shadow transform filter etc 
+([статья]()) ([код]()) ([видео]())
 
-14. CSS3 декорации - border-radius box-shadow transform filter etc ([статья]()) ([код]()) ([видео]())
-
-15. Что дальше - лучшая практика, CSS3, HTML5, JavaScript, фриланс ([статья]()) ([код]()) ([видео]())
+15. Что дальше - лучшая практика, CSS3, HTML5, JavaScript, фриланс 
+#([статья]()) ([код]()) ([видео]())
