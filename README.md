@@ -7,6 +7,8 @@
 
 3) практика - как правильно делать в реальной жизни "HTML и CSS. Лучшая практика"
 
+!(HTML и CSS за 7 дней)[http://undefitied.com/html-css-course/title.png]
+
 # HTML и CSS за 7 дней
 ### Программа курса:
 0. Знакомство с HTML и CSS
