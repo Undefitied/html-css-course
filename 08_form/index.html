@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Заголовок страницы</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<form action="url_to_server">
+
+    <div class="form-row">
+        <label>
+            Заголовок селекта
+            <select>
+                <option>Выбор 1</option>
+                <option>Выбор 2</option>
+                <option selected>Выбор 3</option>
+                <option>Выбор 4</option>
+            </select>
+        </label>
+    </div>
+
+    <div class="form-row">
+        <label for="myId">
+            Заголовок текстовой области
+        </label>
+        <textarea id="myId" placeholder="которое не идет на сервер"></textarea>
+    </div>
+
+    <div class="form-row">
+        Текстовое поле
+        <input type="text" placeholder="видимое значение"/>
+    </div>
+    <div class="form-row">
+        чекбокс 1
+        <input type="checkbox" checked/>
+    </div>
+    <div class="form-row">
+        чекбокс 2
+        <input type="checkbox"/>
+    </div>
+    <div class="form-row">
+        радио 1
+        <input type="radio" name="radio1"/>
+    </div>
+    <div class="form-row">
+        радио 2
+        <input type="radio" name="radio1" checked/>
+    </div>
+    <div class="form-row">
+        Файл
+        <input type="file"/>
+    </div>
+    <div class="form-row">
+        Пароль
+        <input type="password" value="123456"/>
+    </div>
+    <input type="hidden" value="скрытое значение"/>
+
+    <div class="form-row">
+        <button type="button">Кнопка обычная</button>
+        <button type="submit">Кнопка сабмит</button>
+        <button type="reset">Кнопка резет</button>
+    </div>
+
+
+
+</form>
+
+</body>
+</html>

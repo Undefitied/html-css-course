@@ -1,0 +1,13 @@
+table {
+	border-collapse: collapse;
+}
+
+td {
+	width: 400px;
+	border: 1px solid #ccc;
+	vertical-align: middle;
+}
+
+.content-430 {
+	width: 430px;
+}

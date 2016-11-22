@@ -1,0 +1,19 @@
+.test-block {
+	width: 200px;
+	margin: 50px;
+	padding: 30px;
+	border: 10px solid red;
+}
+
+.wrapper {
+	width: 500px;
+	margin: 100px auto;
+	border: 10px solid green;
+}
+
+.test-block-3 {
+	width: 300px;
+	margin: 80px 100px 90px;
+	padding: 30px;
+	border: 10px solid blue;
+}

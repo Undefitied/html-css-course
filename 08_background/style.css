@@ -1,0 +1,35 @@
+body {
+	/*зададим высоту для прокрутки*/
+	height: 2000px;
+}
+
+.wrapper {
+	width: 500px;
+	margin: 0 auto;
+}
+
+.some-style {
+	/*background: приложение цвет картинка позиционирование повторение*/
+	/*background: scroll transparent none 0 0 repeat;*/
+}
+
+.bg-block {
+	background: fixed #000 url(img/img.jpg) center center no-repeat;
+	padding: 50px 0;
+	color: #fff;
+	text-align: center;
+}
+
+.text-title {
+	margin: 0 0 15px;
+	font: bold 28px/32px Arial, sans-serif;
+}
+
+.text-subtitle {
+	margin: 0 0 40px;
+	font: bold 20px/24px Arial, sans-serif;
+}
+
+.text {
+	font: 16px/22px Arial, sans-serif;
+}

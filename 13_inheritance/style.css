@@ -1,0 +1,63 @@
+.wrapper {
+	width: 500px;
+	margin: 100px auto;
+}
+
+.clear:after {
+	clear: both;
+	display: block;
+	content: "";
+}
+
+.block {
+	padding: 15px;
+	border: 1px solid #ccc;
+	color: red;
+	font: 14px/16px 'Arial', sans-serif;
+}
+
+.block.block-red {
+	background: #ff6f54;
+	color: #fff;
+}
+
+.block.block-red {
+	background: black;
+	color: #fff;
+}
+
+#blockWhite {
+	background: #fff;
+	color: #000;
+}
+
+#blockWhite.block-red {
+	background: green;
+}
+
+.block .image {
+	width: 45%;
+	height: 200px;
+	background: #ffa42d;
+	float: left;
+}
+
+.block .info {
+	width: 50%;
+	float: right;
+	color: green;
+}
+
+.block.block-red .info {
+	color: inherit;
+}
+
+.block .name {
+	margin: 0 0 10px;
+	font: bold 16px/18px 'Arial', sans-serif;
+}
+
+.block ul {
+	margin: 0;
+	padding: 0 0 0 13px;
+}

@@ -1,0 +1,30 @@
+.block-parent {
+	border: 1px solid red;
+	line-height: 150px;
+	text-align: center;
+}
+
+.block {
+	width: 300px;
+	margin: 15px auto;
+	padding: 10px;
+	border: 1px solid #ccc;
+	vertical-align: middle;
+	font: bold 14px/16px Tahoma, sans-serif;
+	text-align: left;
+}
+
+.block-block {
+	display: block; /*default for div*/
+}
+
+.block-inline {
+	display: inline;
+	font-weight: bold;
+}
+
+.block-inline-block {
+	display: inline-block;
+	color: green;
+	font-weight: bold;
+}

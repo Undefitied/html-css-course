@@ -1,0 +1,36 @@
+.test-block {
+	width: 100%;
+	border: 3px solid red;
+}
+
+.my-class-1 {
+	border: 10px solid black;
+}
+
+.my-class-2 {
+	border: 10px dotted red;
+}
+
+.my-class-3 {
+	border: 10px dashed green;
+}
+
+.my-class-4 {
+	border: 10px double orange;
+}
+
+.my-class-5 {
+	border: 10px outset purple;
+}
+
+.my-class-6 {
+	border: 10px inset yellow;
+}
+
+.my-class-7 {
+	border: 10px ridge grey;
+}
+
+.my-class-8 {
+	border: 10px groove blue;
+}
