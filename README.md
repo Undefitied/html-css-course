@@ -38,8 +38,8 @@
 12. Стили состояний ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/12_state)) ([видео]())
 
 13. Наследование ([статья]()) ([код](https://github.com/Undefitied/html-css-course/tree/master/13_inheritance)) ([видео]())
-<!--
-14. CSS3 декорации - border-radius box-shadow transform filter etc ([статья]()) ([код]()) ([видео]())
 
-15. Что дальше - лучшая практика, CSS3, HTML5, JavaScript, фриланс ([статья]()) ([код]()) ([видео]())
--->
+<!--14. CSS3 декорации - border-radius box-shadow transform filter etc ([статья]()) ([код]()) ([видео]())-->
+
+<!--15. Что дальше - лучшая практика, CSS3, HTML5, JavaScript, фриланс ([статья]()) ([код]()) ([видео]())-->
+
